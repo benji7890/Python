@@ -1,4 +1,4 @@
-Objectives:
+### Objectives:
 
 Prints an empty field at the beginning of the game.
 
